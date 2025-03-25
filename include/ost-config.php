@@ -42,8 +42,8 @@ define('ADMIN_EMAIL','carl.nubla@aeroworx-asia.com');
 define('DBTYPE','mysql');
 #  DBHOST can have comma separated hosts (e.g db1:6033,db2:6033)
 define('DBHOST','localhost');
-define('DBNAME','xmdchsdkcr');
-define('DBUSER','xmdchsdkcr');
+define('DBNAME','ahgctxezru');
+define('DBUSER','ahgctxezru');
 define('DBPASS','2EVjb5TsEA');
 
 # Database TCP/IP Connect Timeout (default: 3 seconds)
